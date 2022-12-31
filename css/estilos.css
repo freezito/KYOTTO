@@ -1,0 +1,47 @@
+*{
+    padding: 10px 20px ;
+}
+
+body{
+    background: rgb(15, 14, 14);
+}
+.SUMO{
+    color: rgb(15, 14, 14);
+    text-align: center;
+    background-color: rgba(255, 166, 0, 0.429) ;
+}
+h1{
+    background-color: rgba(255, 166, 0, 0.429);
+}
+
+h2 {
+    color: antiquewhite;
+    font-family: 'Times New Roman';
+}
+
+.introduccion{
+    color: antiquewhite;
+    font-size: 18px;
+    padding: 10px 50px;
+    float: left;
+}
+
+.kyottobotima {
+    position: relative;
+    bottom: 10px;
+    float: left;
+}
+.kyottobot{
+    color: antiquewhite;
+}
+
+.lista, .lista2{
+    color:antiquewhite;
+}
+
+.pie{
+    background-color: rgba(255, 166, 0, 0.422);
+    color: black;
+    width: 90%;
+    text-align: center;
+}
